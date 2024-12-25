@@ -10,3 +10,7 @@ Features
 - Bookings Made Easy: Simplified booking for flights, accommodations, and activities.
 - Travel Stories & Testimonials: Gain inspiration from other travelers and read their experiences.
 - Responsive Design: Access the platform seamlessly on any device.
+
+Technologies Used
+- Frontend: HTML, CSS, JavaScript, Bootstrap
+- Backend: PHP
